@@ -1,0 +1,105 @@
+body{
+    background-color: #e5e5e5;
+}
+
+.proba{
+    margin-right: 1%;
+}
+
+.fejlec{
+    margin-right: 70%;
+}
+
+.navbar{
+    background-color: #030e4f;
+    color: #f49f1c;
+}
+
+.szoveg{
+    color:#f49f1c;
+}
+
+.aktiv{
+    color:white;
+}
+
+.szoveg:hover{
+    color:white;
+}
+
+.szoveg:active{
+    color:#f49f1c;
+}
+
+.cim{
+    color:#f49f1c;
+}
+
+.cim:hover{
+    color:#f49f1c;
+}
+
+.btn-outline-success{
+    border-color: #f49f1c;
+    color:#f49f1c;
+}
+
+.btn-outline-success:hover{
+    background-color:#f49f1c;
+    border-color:#f49f1c;
+}
+
+.btn-outline-success:active{
+    background-color:#f49f1c;
+}
+
+.hatter{
+    border-color:#030e4f;
+    background-color: #030e4f;
+}
+
+.narancs-szoveg{
+    color:#f49f1c;
+}
+
+.btn-warning{
+    background-color: #f49f1c;
+    border-color: #f49f1c;
+    color:#030e4f;
+}
+
+.btn-warning:hover{
+    background-color:#030e4f;
+    border-color: #f49f1c;
+    color:#f49f1c;
+}
+
+.kitoltes{
+    background-color: #030e4f;
+    border-color:#f49f1c;
+    color:#f49f1c;
+}
+
+.kitoltes:focus{
+    background-color: #030e4f;
+    color:#f49f1c;
+}
+
+.kitoltes::placeholder{
+    color:#f49f1c;
+}
+
+.a{
+    margin-top:100px;
+    background-color: #030e4f;
+    color:#f49f1c;
+    border-radius: 20px;
+}
+
+h2{
+    padding-top: 10px;
+}
+
+.table{
+    color:#f49f1c;
+}
